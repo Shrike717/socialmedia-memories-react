@@ -48,7 +48,7 @@ export const commentPost = (comment, id) =>
 export const signIn = (formData) => API.post('/user/signin', formData); // Man Auth 14: Signin credentials sent to BE
 export const signUp = (formData) => API.post('/user/signup', formData); // Man Auth 14: Signin credentials sent to BE
 
-// Test images
+// Test images:
 export const fetchImages = () => API.get('/api/images');
 
 export const createImage = (newImage) =>
