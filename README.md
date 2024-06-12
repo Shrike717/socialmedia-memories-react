@@ -28,4 +28,4 @@
 ## Project Creation
 
 This project was created using the following tutorial:
-[Link to the tutorial]
+https://www.youtube.com/watch?v=VsUzmlZfYNg&list=RDCMUCmXmlB4-HJytD7wek0Uo97A&start_radio=1&t=7917s
